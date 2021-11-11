@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1636650446037" clover="3.2.0">
+  <project timestamp="1636650446037" name="All files">
+    <metrics statements="21" coveredstatements="12" conditionals="1" coveredconditionals="1" methods="7" coveredmethods="4" elements="29" coveredelements="17" complexity="0" loc="21" ncloc="21" packages="2" files="4" classes="4"/>
+    <package name="components">
+      <metrics statements="17" coveredstatements="12" conditionals="1" coveredconditionals="1" methods="6" coveredmethods="4"/>
+      <file name="money-formater.vue" path="/Users/mctekk/Documents/courses/nuxt-testing/components/money-formater.vue">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+      </file>
+      <file name="todo-list.vue" path="/Users/mctekk/Documents/courses/nuxt-testing/components/todo-list.vue">
+        <metrics statements="8" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+      </file>
+      <file name="uppercase.vue" path="/Users/mctekk/Documents/courses/nuxt-testing/components/uppercase.vue">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages">
+      <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/mctekk/Documents/courses/nuxt-testing/pages/index.vue">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
